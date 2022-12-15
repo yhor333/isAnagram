@@ -5,9 +5,6 @@ ascascas
  cccc
 sadasdas
 asdasdasd
-<<<<<<< HEAD
 asdasd
-some words
-=======
-asdasd
->>>>>>> parent of 4a7ad26 (add new line11)
+
+
