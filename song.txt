@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 some words
 12312312
 asdascas
@@ -6,3 +7,6 @@ ascascas
 sadasdas
 asdasdasd
 asdasd
+=======
+some words
+>>>>>>> parent of 2ffa00f (Update song.txt)
